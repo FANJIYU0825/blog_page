@@ -10,3 +10,14 @@ order: 4
 Hello There!  I am Tony-Fan(范紀予)
 
 Now Focus :NLU ,CV ,DataMining ,  Backend(GO,Python)
+##Education
+
+### Now 
+
+National Taiwan Normal University:  Computer Science, 2022-Present
+
+LAB:KDD(KNOWLEDGE DISCOVERY AND DATA MINING)
+### P
+National Chung Shing University:  Marketing, 2013-2018
+
+Chongqing University: Industrial Management , 2017
