@@ -10,6 +10,7 @@ order: 4
 Hello There!  I am Tony-Fan(范紀予)
 
 Now Focus :NLU ,CV ,DataMining ,  Backend(GO,Python)
+
 ##Education
 
 ### Now 
