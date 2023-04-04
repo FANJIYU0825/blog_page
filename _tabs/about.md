@@ -17,7 +17,7 @@ Now Focus :NLU ,CV ,DataMining ,  Backend(GO,Python)
 National Taiwan Normal University:  Computer Science, 2022-Present
 
 LAB:KDD(KNOWLEDGE DISCOVERY AND DATA MINING)
-### P
+### Past
 National Chung Shing University:  Marketing, 2013-2018
 
 Chongqing University: Industrial Management , 2017
